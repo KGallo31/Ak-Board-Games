@@ -26,9 +26,7 @@ function App() {
       <div className="header">
         <Header changeReviewState={changeReviewState}/>
       </div>
-      {/* <Routes>
-        <Route path='/header' element={<Header changeReviewState={changeReviewState}/>}/>
-      </Routes> */}
+      
     </div>
   );
 }
